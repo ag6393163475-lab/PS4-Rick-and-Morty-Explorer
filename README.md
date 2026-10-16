@@ -40,7 +40,7 @@ This project is built using React.js and Vite. It aims to solve the problem desc
 ![alt text](character.png)
 
 ## Live Demo
-[View Live Project](YOUR_DEPLOYED_LINK)
+https://ps-4-rick-and-morty-explorer-xnvp.vercel.app/
 
 ## Installation and Setup
 
