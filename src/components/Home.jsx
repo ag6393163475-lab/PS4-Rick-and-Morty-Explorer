@@ -1,14 +1,11 @@
-import React from 'react'
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
-function Home() {
+export default function Home() {
   return (
-    <div>
-        <h1>home hai</h1>
-        <Link to="/characters" className="btn">See characters</Link>
-    </div>
-
-  )
+    <section className="hero">
+      <h1>Rick and Morty Explorer</h1>
+      <p>Browse every character from the multiverse, page by page.</p>
+      <Link to="/characters" className="btn">See characters</Link>
+    </section>
+  );
 }
-
-export default Home

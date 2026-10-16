@@ -10,7 +10,9 @@ import NotFound from "./components/NotFound";
 
 function App() {
   return (
-    <BrowserRouter>
+    <>
+    <Navbar />
+    <main className="container">
     <Routes>
         {/* //kaun se path pe kaun sa element render hoga */}
           <Route path='/' element={<Home/>} />
@@ -19,7 +21,8 @@ function App() {
           <Route path='/characters/:id' element={<CharacterDetail/>} />
           <Route path="*" element={<NotFound/>} />
        </Routes>
-    </BrowserRouter>
+    </main>
+    </>
   )
 }
 

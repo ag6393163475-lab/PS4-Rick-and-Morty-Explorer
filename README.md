@@ -33,10 +33,11 @@ This project is built using React.js and Vite. It aims to solve the problem desc
 ## Screenshots
 
 ### Screenshot 1 — Home Page
-![Home Page](screenshots/home.png)
+![alt text](HOME.PNG)
+
 
 ### Screenshot 2 — Main Feature
-![Main Feature](screenshots/feature.png)
+![alt text](character.png)
 
 ## Live Demo
 [View Live Project](YOUR_DEPLOYED_LINK)
@@ -59,4 +60,4 @@ This project is built using React.js and Vite. It aims to solve the problem desc
 4. Open the local URL shown in your terminal.
 
 ## Author
-YOUR_NAME
+ANSHIKA GUPTA
